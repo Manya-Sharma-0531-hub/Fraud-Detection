@@ -1,0 +1,51 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Streamlit cache
+.streamlit/
+
+# Model files
+*.pkl
+*.joblib
+
+# Large datasets
+*.csv
+*.zip
+*.parquet
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Kaggle temp
+/tmp/
+
+# Matplotlib cache
+.matplotlib/
+
+# SHAP cache
+shap_cache/
+
+# Python environment
+.python-version
+
